@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.imp-line1{
+  text-align: center;
+}
+.background-img{
+  width: 100%;
+  z-index: 0;
+}
